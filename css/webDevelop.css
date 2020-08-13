@@ -806,8 +806,8 @@ td {
   }
 
   table {
-    width: 80%;
-    margin-left: 50px;
+    width: 100%;
+    margin-left: 0px;
   }
   td {
     padding: 2px;
@@ -873,24 +873,24 @@ td {
   }
 
   .buttonvh {
-    font-size: 15px;
+    font-size: 12px;
     width: 40%;
     padding: 2x;
     height: 8%;
   }
   .buttonvh:hover {
-    font-size: 15px;
+    font-size: 12px;
   }
   .button4 {
-    top: 85%;
+    top: 95%;
     left: 49%;
   }
   .button5 {
-    top: 134%;
+    top: 150%;
     left: 49%;
   }
   .button6 {
-    top: 180%;
+    top: 205%;
     left: 49%;
   }
   .buttoncom {
@@ -963,10 +963,10 @@ td {
     color: white;
   }
   .look {
-    font-size: 20px;
+    font-size: 18px;
     position: relative;
     top: 4px;
-    left: 10px;
+    left: 2px;
     text-shadow: none;
     color: rgb(223, 86, 31);
   }
